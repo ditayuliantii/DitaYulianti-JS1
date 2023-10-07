@@ -20,5 +20,5 @@ function golonganSuhu(suhu) {
 
 const suhu = 24;
 console.info(`${suhu} derajat Celsius tergolong ${golonganSuhu(suhu)}`);
-// ini cobaaa
 
+// tes tes coba push
